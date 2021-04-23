@@ -14,7 +14,7 @@ import java.sql.SQLException;
  * Adapted from https://techdev.io/en/developer-blog/querying-the-embedded-h2-database-of-a-spring-boot-application
  * necessary for using the database tool built into intellij
  */
-@Configuration
+//@Configuration
 public class H2ServerConfiguration
 {
 
